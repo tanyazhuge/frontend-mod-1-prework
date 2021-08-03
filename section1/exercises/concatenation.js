@@ -60,7 +60,7 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
   var losingTeam = "Netherlands";
   var time = 2021;
 
-  console.log("In the year " + time  + ", " + winningTeam + " edged out " + losingTeam +" by penalty kicks and advanced to semifinals in Olympics women's soccer.")
+  console.log("In the year " + time  + ", " + winningTeam + " edged out " + losingTeam + " by penalty kicks and advanced to semifinals in Olympics women's soccer.")
 
 //-------------------
 // FINAL CHECK

@@ -37,4 +37,4 @@ and received "The password for your Google account myemail@gmail.com was changed
 The automatic email is created by concatenating my specific email and the rest of the message.
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
-What is the advantage of distinguishing between numbers - (float and integer)?
+- What is the advantage of distinguishing between numbers - (float and integer)?
