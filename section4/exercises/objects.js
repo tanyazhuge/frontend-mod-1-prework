@@ -46,7 +46,7 @@ console.log(animals);
 
 // Change the value for at least one of your animal keys, and log the updated Object.
 
-animals.monkeys = 6
+animals.monkeys = 6;
 console.log(animals);
 
 // Add another animal to the zoo Object, and log the updated Object.

@@ -10,20 +10,18 @@ tweet object instances _behave_ as expected.
 
 class Tweet {
   constructor(author,content,time,numberOfLikes,listOfComment){
-
-
 this.author = author;
 this.content = content;
 this.timeStamp = time;
 this.numberOfLikes = numberOfLikes;
-this.listOfComment = listOfComment;
+this.listOfComment = listOfComments;
 }
 
 increaseLikes(addLikes) {
   this.numberOfLikes = this.numberOfLikes + addLikes;
 }
 addComments(newComment) {
-  this.listOfComment = this.listOfComment.push(newComment);
+  this.listOfComments = this.listOfComments.push(newComment);
 }
 };
 
