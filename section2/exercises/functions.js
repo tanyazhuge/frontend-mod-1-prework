@@ -84,6 +84,6 @@ What did you name each parameter, and why?
 EXPLAIN:
 I name the previous function potluckDesserts because it lists what type of desserts that I would bring to potluck.
 I named the parameter Dessert1 and Dessert2 because there isn't a big difference between 2 items and both are desserts.
-If I was asked to bring a dessert dish and side dish then I might have changed my naming system to dessertDish
-and sideDish().
+If I was asked to bring a dessert dish and side dish then I might have changed my parameters to dessertDish
+and sideDish.
 */

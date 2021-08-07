@@ -45,7 +45,7 @@ If the condition that the variable doorChoice value is equal to 1 is false, then
 The value of bearClothing would become string "scarf".
 
 2. What variable has a new value assigned to it after the first if statement executes?
-The bearClothing has a new value of string assinged to it after the first if statment executes.
+The bearClothing has a new value of string assigned to it after the first if statment executes.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 The bearClothing value would be string 'scarf'.
